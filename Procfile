@@ -1,1 +1,1 @@
-worker: python crypto_signal_bot_with_telegram.py
+worker: python crypto_signal_bot_with_coingecko.py
