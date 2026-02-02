@@ -1,0 +1,1 @@
+worker: python crypto_signal_bot_with_telegram.py
